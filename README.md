@@ -47,9 +47,9 @@ Hopper in December of 1943 joined the US Naval Reserve. From here she gained exp
 
 In 1949 Hopper was appointed as a research fellow in Computation Laboratory at Harvard University. She stayed here until she retired in 1971.
 
-### Hoppers take on programming languages
-
 ### A-0 and COBOL
+
+In 1951 Hopper designed the first compiler, A-0. Hoppers concept compilers differs from what a compiler is today but her implementation of the A-0 and subsequently the A-2 (1953) was based on the idea of building a easy to understand macro assembler. Her work on the A-0 and A-2 led her to her to the development of the first English-language data processing compiler, B-0.
 
 ## Impact on Me and Software Development
 
