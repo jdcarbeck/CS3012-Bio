@@ -18,7 +18,7 @@ int min(int a, int b, int c) {
 return 0;
 ```
 
-```
+```assembly
 min:    mov rax, rcx
         cmp rdx, rax
         jge min0
@@ -29,6 +29,15 @@ min0:   cmp r8, rax
 min1:   ret 0
 ```
 
- Above the example of a min function shows how with modern compilers complex functionality is able to be described in a way that describes the logic involved. This accessibility through easy to write languages has meant that more and more people have been able to learn how write software and ultimately provide more solutions to the worlds problems. These advance in how solutions to problems have been able to be translated from something natural to humans and understandable for computers is largely to do with one women, Grace Brewster Murray Hopper.
+ Above the example of a min function in both c and assembly shows how with compilers complex functionality is able to be described in a way that better describes the logic involved.
+
+ This accessibility through easy to write languages has meant that more and more people have been able to learn how write software and ultimately provide more solutions to the worlds problems. These advance in how solutions to problems have been able to be described from something natural to humans and understandable for computers is largely to do with one women, Grace Brewster Murray Hopper.
 
 ## Grace Brewster Murray Hopper
+![alt text](https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO)
+### Life
+### A-0 and COBOL
+## Impact on Me and Software Development
+* Haskell and functional programming
+* accessibility to software Development
+* future software
