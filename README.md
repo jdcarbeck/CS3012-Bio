@@ -34,8 +34,18 @@ min1:   ret 0
  This accessibility through easy to write languages has meant that more and more people have been able to learn how write software and ultimately provide more solutions to the worlds problems. These advance in how solutions to problems have been able to be described from something natural to humans and understandable for computers is largely to do with one women, Grace Brewster Murray Hopper.
 
 ## Grace Brewster Murray Hopper
-![alt text](https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO)
+<p align="center">
+  <img src="https://news.yale.edu/sites/default/files/styles/horizontal_image/public/d6_files/YaleNews_hopper-grace.UNIVAC.102635875-CC_0.jpg?itok=4HL3ETlO"/>
+</p>
 ### Life
+Grace Brewster Murray Hopper was born in New York City on December 9th 1906. Hopper received a BA in mathematics and physics from Vassar College in 1928. Hopper then went on to receive MA in 1930 and a PhD in mathematics at Yale University in 1934.
+
+Hopper in December of 1943 joined the US Naval Reserve. From here she gained experienced with the Mark I computer. With Mark I Hopper did various mathematical calculations as well as being assigned of creating a manual for this computer. This was published as a 500-page volume that explained how to set up the computer and operating principals of computing machines.
+
+In 1949 Hopper was appointed as a research fellow in Computation Laboratory at Harvard University. She stayed here until she retired in 1971.
+
+### Hoppers take on programming languages
+
 ### A-0 and COBOL
 ## Impact on Me and Software Development
 * Haskell and functional programming
