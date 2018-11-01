@@ -41,17 +41,17 @@ Easier to write languages has meant that more and more people have been able to 
 
 ### Life
 
-Grace Brewster Murray Hopper was born in New York City on December 9th 1906. Hopper received a BA in mathematics and physics from Vassar College in 1928. Hopper then went on to receive MA in 1930 and a PhD in mathematics at Yale University in 1934.
+Admiral Grace Brewster Murray Hopper is an American mathematician and computer scientist, born in New York City on December 9th 1906. Hopper received a BA in mathematics and physics from Vassar College in 1928. Hopper then went on to receive MA in 1930 and a PhD in 1934 in mathematics at Yale University .
 
-In December of 1943, Hopper joined the US Naval Reserve. From here she gained experienced with the Mark I computer, one of the computation machines. With the Mark I Hopper did various mathematical calculations as well as creating a manual for this computational machine. This manual explained how to set up the Mark I as well as the operating principals of computing machines in a general sense.
+In December of 1943, Hopper joined the US Naval Reserve. In July 1944 she was commissioned a lieutenant and assigned to the Bureau of Ordnance Computation Project at Harvard University. From here she gained experienced with the IBM's Mark I computer, the first large-scale automatic digital computer. With the Mark I Hopper did various mathematical calculations as well as creating a manual for this computational machine. This manual explained how to set up the Mark I as well as the operating principals of computing machines in a general sense.
 
-In 1949 Hopper was appointed as a research fellow in Computation Laboratory at Harvard University. She stayed here until she retired in 1971. It was at her time as a researcher that the A-0 compiler and the COBOL programming Language were developed.
+In 1949 Hopper was appointed as a research fellow in Computation Laboratory at Harvard University. She stayed here until she retired in 1971. It was at her time as a civilian and researcher that the A-0 system for the UNIVAC (UNIVersal Automatic Computer) and the COBOL programming Language were developed.
 
 ### A-0 and COBOL
 
-In 1951 Hopper designed the first compiler, A-0. Hoppers concept compilers differs from what a compiler is today but her implementation of the A-0 and subsequently the A-2 (1953) was based on the idea of building a easy to understand macro assembler.
+In 1951 Hopper designed A-0 System for the UNIVAC, the first compiler. Hoppers concept compilers differs from what a compiler is today but her implementation of the A-0 and subsequently the A-2 (1953) was based on the idea of building a easy to understand macro assembler.
 
-The A-0 system was a set of instruction that described symbolic mathematical code into machine language. Hopper took all the subroutines that she had written over there years and gave them a call number so that the machine could find the location of the subroutine on the tape. As Hopper described:
+The A-0 system was a set of instruction that described symbolic mathematical code into machine language. Hopper took all the subroutines that she had written over there years and gave them a call number so that the machine could find the location of the subroutine on the tape. Hopper utility-program then could generate the complete machine-code by copying and inserting from the call values. As Hopper described:
 
 > "All I had to do was to write down a set of call numbers, let the computer find them on the tape, bring them over and do the additions. This was the first compiler." -- Grace Hopper
 
@@ -59,10 +59,16 @@ The A-0 system was never widely accepted. Her idea of changing computation from 
 
 >"I had a running compiler, and nobody would touch it because, they carefully told me, computers could only do arithmetic; they could not do programs. It was a selling job to get people to try it. I think with any new idea, because people are allergic to change, you have to get out and sell the idea." -- Grace Hopper
 
-Her work on the A-0 and A-2 led her to her to the development of the first English-language data processing compiler, B-0. The A-2 compiler was the first compiler to be used extensively, grandmother to all modern programming language compilers.
+Her work on the A-0 and subsequent iterations led her to her to the development of the first English-language data processing compiler, the FLOW-MATIC. Hoppers work on the ability to compile higher level code into machine code is the cornerstone for all modern software development.
+
+
 
 ## Impact on Me and Software Development
 
 * Haskell and functional programming
 * accessibility to software Development
 * future software
+
+## Links
+* http://history-computer.com/ModernComputer/Software/FirstCompiler.html
+* http://www.orpalis.com/blog/first-compiler/
