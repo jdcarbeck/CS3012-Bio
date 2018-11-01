@@ -53,7 +53,11 @@ In 1951 Hopper designed the first compiler, A-0. Hoppers concept compilers diffe
 
 The A-0 system was a set of instruction that described symbolic mathematical code into machine language. Hopper took all the subroutines that she had written over there years and gave them a call number so that the machine could find the location of the subroutine on the tape. As Hopper described:
 
-> "All I had to do was to write down a set of call numbers, let the computer find them on the tape, bring them over and do the additions. This was the first compiler."
+> "All I had to do was to write down a set of call numbers, let the computer find them on the tape, bring them over and do the additions. This was the first compiler." -- Grace Hopper
+
+The A-0 system was never widely accepted. Her idea of changing computation from arithmetic operation to programs was not realised initially.
+
+>"I had a running compiler, and nobody would touch it because, they carefully told me, computers could only do arithmetic; they could not do programs. It was a selling job to get people to try it. I think with any new idea, because people are allergic to change, you have to get out and sell the idea." -- Grace Hopper
 
 Her work on the A-0 and A-2 led her to her to the development of the first English-language data processing compiler, B-0. The A-2 compiler was the first compiler to be used extensively, grandmother to all modern programming language compilers.
 
