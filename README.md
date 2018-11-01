@@ -47,7 +47,7 @@ In December of 1943, Hopper joined the US Naval Reserve. In July 1944 she was co
 
 In 1949 Hopper was appointed as a research fellow in Computation Laboratory at Harvard University. She stayed here until she retired in 1971. It was at her time as a civilian and researcher that the A-0 system for the UNIVAC (UNIVersal Automatic Computer) and the COBOL programming Language were developed.
 
-### A-0 and COBOL
+### A-0 System and COBOL programming language
 
 In 1951 Hopper designed A-0 System for the UNIVAC, the first compiler. Hoppers concept compilers differs from what a compiler is today but her implementation of the A-0 and subsequently the A-2 (1953) was based on the idea of building a easy to understand macro assembler.
 
@@ -63,16 +63,16 @@ Her work on the A-0 and subsequent iterations led her to her to the development 
 
 Hopper was also key-contributor in the development of COBOL programming language. The FLOW-MATIC compiler used to help form the basis for COBOL.
 
-COBOL
+Before COBOL each computer had to use its own programming languages to dictate execution. COBOL (COmmon Buisness-Oriented Language) programs could run on more than one manufacturer's computer. This allowed for software to be developed for payrolls, budgets, and other aspects of business data procession. This portability comes from COBOL being built on the FLOW-MATIC compiler developed by Hopper.
 
 
-## Impact on Me and Software Development
+## Hopper's Impact on Me and Software Development
+Its hard to imagine what software development would be like without compilers. Grace Hopper has undoubtably been crucial to what modern software is. I personally believe her contributions are as valuable as her attitude she brought to expressing her own ideas. Hopper stood her ground and waited for people to hear her out, without this attitude her contributions would have been over looked. Hopper was able to question the way things were done and provide a more efficient solution. She demonstrates how creating software and tooling that makes your life as a developer easier can impact the rest of software development. 
 
-* Haskell and functional programming
-* accessibility to software Development
-* future software
+Compilers will continue to make the ability to build software easier and more efficient. Compilers alone have allowed for almost all other significant pieces of software
 
 ## Bibliography
+* https://history.computer.org/pioneers/hopper.html
 * http://history-computer.com/ModernComputer/Software/FirstCompiler.html
 * http://www.orpalis.com/blog/first-compiler/
 * http://americanhistory.si.edu/cobol/introduction
