@@ -61,6 +61,9 @@ The A-0 system was never widely accepted. Her idea of changing computation from 
 
 Her work on the A-0 and subsequent iterations led her to her to the development of the first English-language data processing compiler, the FLOW-MATIC. Hoppers work on the ability to compile higher level code into machine code is the cornerstone for all modern software development.
 
+Hopper was also key-contributor in the development of COBOL programming language. The FLOW-MATIC compiler used to help form the basis for COBOL.
+
+COBOL
 
 
 ## Impact on Me and Software Development
@@ -69,6 +72,7 @@ Her work on the A-0 and subsequent iterations led her to her to the development 
 * accessibility to software Development
 * future software
 
-## Links
+## Bibliography
 * http://history-computer.com/ModernComputer/Software/FirstCompiler.html
 * http://www.orpalis.com/blog/first-compiler/
+* http://americanhistory.si.edu/cobol/introduction
